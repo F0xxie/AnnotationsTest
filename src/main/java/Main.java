@@ -1,5 +1,4 @@
 import annotations.Version;
-
 import java.lang.*;
 
 public class Main {
